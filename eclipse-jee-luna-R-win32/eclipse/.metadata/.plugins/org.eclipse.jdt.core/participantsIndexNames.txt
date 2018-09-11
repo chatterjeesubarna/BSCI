@@ -1,0 +1,7 @@
+INDEX VERSION 1.127
+C:\Users\user\Desktop\eclipse-jee-luna-R-win32\eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3610786797.index
+\HST New\src
+C:\Users\user\Desktop\eclipse-jee-luna-R-win32\eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2102910030.index
+\TestProject\src
+C:\Users\user\Desktop\eclipse-jee-luna-R-win32\eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2438611481.index
+\Client\src

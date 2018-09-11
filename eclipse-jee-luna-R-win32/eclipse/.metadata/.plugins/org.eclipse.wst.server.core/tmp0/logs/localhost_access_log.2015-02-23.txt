@@ -1,0 +1,11 @@
+127.0.0.1 - - [23/Feb/2015:15:45:30 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [23/Feb/2015:15:45:31 +0530] "GET /TestProject/NewFile.jsp HTTP/1.1" 200 7517
+127.0.0.1 - - [23/Feb/2015:15:45:31 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [23/Feb/2015:15:45:42 +0530] "GET /TestProject/login.jsp HTTP/1.1" 200 4498
+127.0.0.1 - - [23/Feb/2015:15:45:44 +0530] "POST /TestProject/loginchk.jsp HTTP/1.1" 302 -
+127.0.0.1 - - [23/Feb/2015:15:45:44 +0530] "GET /TestProject/credentials.jsp?name=Arijit HTTP/1.1" 200 4759
+127.0.0.1 - - [23/Feb/2015:15:45:47 +0530] "GET /TestProject/template1.jsp HTTP/1.1" 200 6181
+127.0.0.1 - - [23/Feb/2015:15:45:55 +0530] "POST /TestProject/sensorallocation.jsp HTTP/1.1" 302 -
+127.0.0.1 - - [23/Feb/2015:15:45:55 +0530] "GET /TestProject/vs_activation.jsp?vs_id=219 HTTP/1.1" 200 4158
+127.0.0.1 - - [23/Feb/2015:15:46:46 +0530] "POST /TestProject/startVS.jsp HTTP/1.1" 302 -
+127.0.0.1 - - [23/Feb/2015:15:46:46 +0530] "GET /TestProject/vs_activation.jsp?vs_id=219 HTTP/1.1" 200 4158

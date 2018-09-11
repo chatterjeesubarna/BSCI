@@ -1,0 +1,7 @@
+127.0.0.1 - - [11/Jun/2016:14:43:09 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Jun/2016:14:43:11 +0530] "GET /Client/BasicInfo_beforeUstart.jsp HTTP/1.1" 200 1590
+0:0:0:0:0:0:0:1 - - [11/Jun/2016:14:43:12 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [11/Jun/2016:14:44:51 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Jun/2016:14:44:52 +0530] "GET /Client/BasicInfo_beforeUstart.jsp HTTP/1.1" 200 1590
+127.0.0.1 - - [11/Jun/2016:14:52:31 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Jun/2016:14:52:32 +0530] "GET /Client/BasicInfo_beforeUstart.jsp HTTP/1.1" 200 1590

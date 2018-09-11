@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+
+public class SherlockandParentheses {
+
+	public static int eL, eR, rL, rR; 
+	public static void setValues(int L, int R)
+	{
+		if(L == R)
+	}
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		int T = s.nextInt();
+		while(T-- != 0)
+		{
+			int L = s.nextInt();
+			int R = s.nextInt();
+			rL = 0;
+			rR = 0;
+		}
+
+	}
+
+}

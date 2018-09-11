@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class PermutationsOfNumber {
+
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		int p = s.nextInt();
+		int arr[] = new int[p];
+		for(int i = 0;i<p;i++)
+		{
+			arr[i] = i+1;
+		}
+		String str = s.next();
+		ArrayList<String> strarr = new ArrayList<String>();
+		strarr = getPerm(str);
+		System.out.println(strarr);
+
+	}
+
+}

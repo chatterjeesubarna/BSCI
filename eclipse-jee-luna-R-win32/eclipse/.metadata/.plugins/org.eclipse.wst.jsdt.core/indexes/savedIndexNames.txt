@@ -1,0 +1,10 @@
+INDEX VERSION 1.3+C:\Users\user\Desktop\eclipse-jee-luna-R-win32\eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+137624701.index
+2939504879.index
+1528522021.index
+3040763819.index
+573433141.index
+2453463064.index
+4141934689.index
+3485064577.index
+559670790.index

@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+
+public class SherlockandWatsonGymSecrets {
+
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		int T = s.nextInt();
+		while(T-- != 0)
+		{
+			int A = s.nextInt();
+			int B = s.nextInt();
+			int N = s.nextInt();
+			int K = s.nextInt();
+			for(int i = 1;i<=N;i++)
+			{
+				for(int j = 1;j<=N;j++)
+				{
+					if(i==j)
+						break;
+				}
+			}
+		}
+
+	}
+
+}

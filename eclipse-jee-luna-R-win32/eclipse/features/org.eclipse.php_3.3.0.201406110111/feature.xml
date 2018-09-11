@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2009 IBM Corporation and others.
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+
+    Contributors:
+        IBM Corporation - initial API and implementation
+        Zend Technologies
+ -->
+<feature
+      id="org.eclipse.php"
+      label="%featureName"
+      version="3.3.0.201406110111"
+      provider-name="%providerName"
+      plugin="org.eclipse.php">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <requires>
+      <import feature="org.eclipse.dltk.core" version="3.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.dltk.core.index" version="3.0.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.php.core"
+         download-size="4150"
+         install-size="15563"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.debug.core"
+         download-size="575"
+         install-size="1191"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.debug.ui"
+         download-size="459"
+         install-size="929"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.server.core"
+         download-size="33"
+         install-size="58"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.server.ui"
+         download-size="133"
+         install-size="260"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.ui"
+         download-size="2550"
+         install-size="5522"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.debug.daemon"
+         download-size="16"
+         install-size="25"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.help"
+         download-size="29"
+         install-size="95"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.core.parser"
+         download-size="81"
+         install-size="154"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.formatter.core"
+         download-size="106"
+         install-size="286"
+         version="3.3.0.201406110111"/>
+
+   <plugin
+         id="org.eclipse.php.formatter.ui"
+         download-size="191"
+         install-size="447"
+         version="3.3.0.201406110111"
+         unpack="false"/>
+
+</feature>

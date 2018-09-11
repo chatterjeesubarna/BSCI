@@ -1,0 +1,78 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Ay9dDeKdsf3ChFGxWtP4kKH1xeI=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: tpBSyJjUepW/30Y6VchdHvWk35I=
+
+Name: intro/css/whatsnew.properties
+SHA1-Digest: sOsZfqMBr79eou3A0W80PBL1CEQ=
+
+Name: html/pdt_table_of_contents.htm
+SHA1-Digest: VRgla985hIGJk6rQK2lWOXvyVUw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: org/eclipse/php/help/util/template.txt
+SHA1-Digest: QN77esRiCUyrVHH403r/tlihf4I=
+
+Name: about.html
+SHA1-Digest: /w2Rjlx2ytp0+10CIomBmJiWUkU=
+
+Name: helpContexts.xml
+SHA1-Digest: cX1nFRugDa7VgQr7vvRJfWISblo=
+
+Name: toc.xml
+SHA1-Digest: +Z8aaWBkwwyBXRdl5trGmRZj+08=
+
+Name: META-INF/maven/org.eclipse.php/org.eclipse.php.help/pom.xml
+SHA1-Digest: BThn+afLlnBm+w8QxqamTX1ufm8=
+
+Name: intro/tutorialsExtensionContent.xml
+SHA1-Digest: J7vtemjl9/m5ord7zYSv2bliEZY=
+
+Name: intro/css/whatsnew.css
+SHA1-Digest: yuMFVv2s6v20HK8PvFIclLFcY4Q=
+
+Name: pom.xml
+SHA1-Digest: 5YT3Q4Olsa5fzLQmqqz7R8xIKEM=
+
+Name: intro/whatsnewExtensionContent.xml
+SHA1-Digest: 57mycCnT74wmSzet0aJQ8owB/L4=
+
+Name: intro/images/php.jpg
+SHA1-Digest: EdOHUyNdj+QMmNV1x4kfzzi/YIM=
+
+Name: META-INF/maven/org.eclipse.php/org.eclipse.php.help/pom.properti
+ es
+SHA1-Digest: b7z73zQokcdtmx67/OxqYlAKV6U=
+
+Name: org/eclipse/php/help/util/HelpContextGenerator.class
+SHA1-Digest: kYPtdRT4T5OgPWI0zzYoUO+xBWk=
+
+Name: maintoc.xml
+SHA1-Digest: 5spglq7eiMLX16Ukn8RuyNSFSFY=
+
+Name: intro/css/overview.properties
+SHA1-Digest: qTdSGKfG+FZmWtssieFSDkxntoo=
+
+Name: customBuildCallbacks.xml
+SHA1-Digest: hKtpYSM1LZSD8nKWAlezkwy7Sak=
+
+Name: intro/css/tutorials.css
+SHA1-Digest: JFbM+oxPGEORQSnxRA7MYF6tXKw=
+
+Name: intro/css/tutorials.properties
+SHA1-Digest: fmxmba2WtmSCzU9jYLcjoMS24J0=
+
+Name: org/eclipse/php/help/Activator.class
+SHA1-Digest: 7+h1n9LsDfhHndHHwIBabzNi45g=
+
+Name: plugin.xml
+SHA1-Digest: rOvhBCO5rbr5+6dBfGydxw6ywog=
+
+Name: intro/css/overview.css
+SHA1-Digest: 74PQ02EE2GsJJa/CfpILOUhic/8=
+
+Name: intro/overviewExtensionContent.xml
+SHA1-Digest: qSY+lhvpnlE7aI2kk3Ibcns5kVQ=
+

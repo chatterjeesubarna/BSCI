@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Dec 28 22:07:07 IST 2016
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\Desktop\\eclipse-jee-luna-R-win32\\eclipse\\TestProject\\src\\FileMainTP.jar=WEB-INF/classes/FileMainTP.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\Desktop\\eclipse-jee-luna-R-win32\\eclipse\\TestProject\\src\\HelloWorld.jar=WEB-INF/classes/HelloWorld.jar

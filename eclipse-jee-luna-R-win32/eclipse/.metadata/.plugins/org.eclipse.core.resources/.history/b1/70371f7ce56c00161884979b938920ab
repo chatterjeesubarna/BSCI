@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class PermutationsOfNumber {
+
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		String str = s.next();
+		ArrayList<String> strarr = new ArrayList<String>();
+		strarr = getPerm(str);
+		System.out.println(strarr);
+
+	}
+
+}

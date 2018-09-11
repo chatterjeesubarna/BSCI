@@ -1,0 +1,93 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Built-By: genie.tools.pdt
+Bundle-SymbolicName: org.eclipse.php.help; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/pdt/or
+ g.eclipse.pdt.git;path="plugins/org.eclipse.php.help";commitId=139ca9
+ 58b5d6d661e85d0c6db01e045ba6b670a6
+Bundle-Activator: org.eclipse.php.help.Activator
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.he
+ lp
+Export-Package: org.eclipse.php.help,org.eclipse.php.help.util
+Bundle-Version: 3.3.0.201406110111
+Build-Jdk: 1.7.0_51
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Eclipse.org
+Bundle-Name: PDT Help Plug-in
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: intro/css/whatsnew.properties
+SHA1-Digest: 22jlmLkP8x7RbAAek5UkLEEhiMk=
+
+Name: html/pdt_table_of_contents.htm
+SHA1-Digest: 8gALov0gPpa70mCUF8/uyPJUQe0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+
+Name: org/eclipse/php/help/util/template.txt
+SHA1-Digest: ZH6pfwAcs43e7ZmYidyavDuOhSE=
+
+Name: about.html
+SHA1-Digest: WMI/4olA6hRuXIogXvL125XBLi4=
+
+Name: helpContexts.xml
+SHA1-Digest: yLBl2NMMjMrILcRZPrNOTJCG7Kw=
+
+Name: toc.xml
+SHA1-Digest: O+T4tY4KZQq5n29YOt40b3swMvg=
+
+Name: META-INF/maven/org.eclipse.php/org.eclipse.php.help/pom.xml
+SHA1-Digest: wxcGnHbw7MnAlrc4Z/0bNyLhhY8=
+
+Name: intro/tutorialsExtensionContent.xml
+SHA1-Digest: rmmPe1kiKvxlDY0JjevpZDY8u5k=
+
+Name: intro/css/whatsnew.css
+SHA1-Digest: 5LV/W9HT+03WF2eBfyvWdcZp0aM=
+
+Name: intro/images/php.jpg
+SHA1-Digest: JPsvA/BTmUpl/iXWGwuN4ALcong=
+
+Name: pom.xml
+SHA1-Digest: wxcGnHbw7MnAlrc4Z/0bNyLhhY8=
+
+Name: intro/whatsnewExtensionContent.xml
+SHA1-Digest: oULcvyb0VdNxl9wc1IaeoXq42RM=
+
+Name: META-INF/maven/org.eclipse.php/org.eclipse.php.help/pom.properti
+ es
+SHA1-Digest: A5a/PS2AXBv6my9ZZvEdBmvRxVQ=
+
+Name: org/eclipse/php/help/util/HelpContextGenerator.class
+SHA1-Digest: 9bwtsIy1ObPrgOx7Ce1k/QP/uz0=
+
+Name: maintoc.xml
+SHA1-Digest: CvpRNAwwnLO9PSMn/UZR4Yy9NSU=
+
+Name: intro/css/overview.properties
+SHA1-Digest: xVm/+hIZVB9IwvPP4xZO1EEg7Xo=
+
+Name: customBuildCallbacks.xml
+SHA1-Digest: tFLiF+gG47b3+V+2i6cl+RBEk9Y=
+
+Name: intro/css/tutorials.css
+SHA1-Digest: rC6GxcgLX7DJorRvtnmgsgaOqrM=
+
+Name: intro/css/tutorials.properties
+SHA1-Digest: Xnm3DbzXik5bcW3OiW4ncccrfyA=
+
+Name: org/eclipse/php/help/Activator.class
+SHA1-Digest: xCkD0LJBq30C0CJdEDKKiCc8+I0=
+
+Name: plugin.xml
+SHA1-Digest: 4yByyNR51kzBH8fJM65vtBDlikE=
+
+Name: intro/css/overview.css
+SHA1-Digest: Z4dwLRYUSWQw6jDNjOD+mtSBYzI=
+
+Name: intro/overviewExtensionContent.xml
+SHA1-Digest: Gz8qz4GyPyyAknsgyqxvpZY+CCM=
+

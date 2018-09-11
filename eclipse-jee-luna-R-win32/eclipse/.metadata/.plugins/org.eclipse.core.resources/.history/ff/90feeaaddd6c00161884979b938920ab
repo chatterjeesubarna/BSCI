@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+
+public class SherlockandWatsonGymSecrets {
+
+	public static void main(String[] args) {
+
+		Scanner s = new Scanner(System.in);
+		int T = s.nextInt();
+		while(T-- != 0)
+		{
+			long A = s.nextLong();
+			long B = s.nextLong();
+			long N = s.nextLong();
+			long K = s.nextLong();
+			for(long i = 1;i<=N;i++)
+			{
+				for(long j = 1;j<=N;j++)
+				{
+					if(i==j)
+						break;
+					long val = A
+				}
+			}
+		}
+
+	}
+
+}
